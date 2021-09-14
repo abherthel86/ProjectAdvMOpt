@@ -1,0 +1,5 @@
+To run the code:
+
+./exeSARP Instances/csarp/{NameOfInstance} 2MM 0 sp
+
+
